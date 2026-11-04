@@ -19,7 +19,7 @@ Discovers skills in your workspace, validates structure and metadata, runs confi
 ```bash
 clawhub install skill-tester
 # or:
-git clone https://github.com/RuneweaverStudios/skill-tester.git
+git clone https://github.com/austindixson/skill-tester.git
 cp -r skill-tester ~/.openclaw/workspace/skills/
 ```
 
